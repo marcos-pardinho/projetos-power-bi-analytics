@@ -1,2 +1,2 @@
 # Dashboards_PowerBI
-Repositório com variados projetos que abordam diferentes setores, desde finanças e recursos humanos até vendas e marketing.
+ É um repositório dinâmico que reúne uma variedade de projetos abrangendo diversos setores, desde finanças e recursos humanos até vendas e marketing. 
