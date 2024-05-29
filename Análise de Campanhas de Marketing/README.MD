@@ -6,9 +6,9 @@
 
 Para este projeto foi criado diversos relatórios divididos em 4 visões:
 
-• Visão do Cliente
-• Visão do Comportamento de Compra do Cliente
-• Visão da Performance das Campanhas de Marketing
+• Visão do Cliente <br>
+• Visão do Comportamento de Compra do Cliente <br>
+• Visão da Performance das Campanhas de Marketing <br>
 • Visão dos Padrões de Compra no Ponto de Venda (País)
 
 ## Como Utilizar
